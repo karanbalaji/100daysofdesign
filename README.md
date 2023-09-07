@@ -2,48 +2,49 @@
   <img src="banner.png">
 </p>
 
-## [Karan Balaji ☁️🚀 ]'s Cloud Journey
+## [Karan Balaji 🎨👨‍🎨 ]'s Design Journey
+### Ux Portfolio: https://karanbalaji.com/ 
+🚀 With over 3 years of UX design experience and a passion for tech and gaming, I bridge the gap between design and development. Proficient in Figma, Adobe XD, HTML, CSS, and JS, I produce conversion-driven designs aligned with UX principles that achieve both user and business objectives. This challenge is my journey to explore new design trends, tools, and mentorship. My ultimate goal is to excel as a UX Engineer / Design Technologist or play a pivotal role in the Design/Tech department.
 
-🚀 A Ux Designer who loves tech👨‍💻 and gaming🕹️. I bridge the gap between design and developers by working throughout the UX process and can make rapid prototypes with Figma, Adobe XD, HTML, CSS, JS. I started my journey studying business📊 which enabled me to fully understand the perspective of business and my passion for gaming for over 10 years helped me understand the user and led me to become tech-savvy
+🚀 I started this challenge to hunt my next job and keep track off all design/ux trends, tools and mentor's tips. It is also to inspire other designers and UX'ers 
 
-🚀 I started this challenge to create more projects and become a design technologist. Cloud computing knowledge has helped me solve problems within clicks. I wish to bring this knowledge to the industry so that they can focus on the customer experience.
-
-🚀 At the end of this challenge i wish to see myself working as a UX Engineer / Design Technologist or be a mediator in the Design/Tech department in a branded company]
+🚀 At the end of this challenge I wish to see myself working as a Product Designer / Interaction Desinger / Ux Engineer or be a mediator in the Design/Tech department.
 
 - [ Twitter: @karanbalaji047](https://twitter.com/karanbalaji047)
 - [ LinkedIn: Karan Balaji](https://www.linkedin.com/in/karanbalaji)
 
 ## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
+1. Write everyday about a topic in design or work on a project.
+2. Book mentors everyday to gain prespective, knowledge and network. Get 1 tip per mentor and save it in the journey!
+3. Create an entire documentations of all design trends and tools
 4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
 5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+6. This challenge is inspired by [#100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+
 
 ## Stepping out the door
 
-- [x] ☁️ 1 > (AWS)[How to create IAM user with seperate login, MFA and introduction to AWS IQ access. ](Journey/001/Readme.md)
-- [x] ☁️ 2 > (Azure)[How to create a React Static Webapp hosted on Azure and managed on Github.](Journey/002/Readme.md)
-- [x] ☁️ 3 > (AWS)[Creating a Gatsby React full stack webapp with AUTH using AWS Amplify.](Journey/003/Readme.md)
-- [x] ☁️ 4 > (Azure)[Access Management using Azure Active directory to creat user who manages password resets.](Journey/004/Readme.md)
-- [x] ☁️ 5 > (AWS)[Module 1 - AWS Fullstack serverless workshop called Innovator Island](Journey/005/Readme.md)
-- [x] ☁️ 6 > (AWS)[Module 2 - Real-time ride wait times with SNS, Lambda, IoT & DynamoDB](Journey/006/Readme.md)
-- [x] ☁️ 7 > (AWS)[Module 3.A: On-ride photo processing - Creating the chroma key Lambda function](Journey/007/Readme.md)
-- [x] ☁️ 8 > (AWS)[Module 3.B & 3.C: On-ride photo processing - Creating the photo compositing Lambda function & Post Processing ](Journey/008/Readme.md)
-- [x] ☁️ 9 > (AWS)[Module 4: Language translation for Canadian personas 🇨🇦](Journey/009/Readme.md)
-- [x] ☁️ 10 > (AWS)[Module 5: Analyzing visitor with AWS kinesis and Quicksight](Journey/010/Readme.md)
+- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 3 > [](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [ ] ☁️ 5 > [](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
 
-- [x] ☁️ 11 > (AWS)[Module 6A: Developing event-based architecture - (1) Configure the event bus and metrics dashboard](Journey/011/Readme.md)
-- [x] ☁️ 12 > (JS)(14% Done)[Relearing JavaScript Algorithms and Data Structures](Journey/012/Readme.md)
-- [x] ☁️ 13 > (JS)(44% Done)[Basic Javascript - Variables and Commenting](Journey/013/Readme.md)
-- [x] ☁️ 14 > (JS)(64% Done)[Basic Javascript - Operators and Strings](Journey/014/Readme.md)
-- [x] ☁️ 15 > (JS)(72% Done)[Basic Javascript - Conditions, arrays and strings](Journey/015/Readme.md)
-- [x] ☁️ 16 > (JS)(74% Done)[Basic Javascript - Objects](Journey/016/Readme.md)
-- [x] ☁️ 17 > (JS)(84% Done)[Basic Javascript - Objects and Nested Objects](Journey/017/Readme.md)
-- [x] ☁️ 18 > (JS)(90% Done)[Basic Javascript - Using loops](Journey/018/Readme.md)
+- [ ] ☁️ 11 > [](Journey/011/Readme.md)
+- [ ] ☁️ 12 > [](Journey/012/Readme.md)
+- [ ] ☁️ 13 > [](Journey/013/Readme.md)
+- [ ] ☁️ 14 > [](Journey/014/Readme.md)
+- [ ] ☁️ 15 > [](Journey/015/Readme.md)
+- [ ] ☁️ 16 > [](Journey/016/Readme.md)
+- [ ] ☁️ 17 > [](Journey/017/Readme.md)
+- [ ] ☁️ 18 > [](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
