@@ -24,7 +24,7 @@
 
 ## Stepping out the door
 
-- [x] ☁️ 1 >(Mentorship) A Mentorship Session with Hector Crespo - Head Of CX & Design At RBC (Journey/001/Readme.md)
+- [x] ☁️ 1 >(Mentorship) [A Mentorship Session with Hector Crespo - Head Of CX & Design At RBC] (Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
