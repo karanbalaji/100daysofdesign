@@ -24,8 +24,8 @@
 
 ## Stepping out the door
 
-- [x] ☁️ 1 >(Mentorship)[A Mentorship Session with Hector Crespo - Head Of CX & Design At RBC](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [x] ☁️ 1 >(Mentorship)[A Mentorship Session with Hector Crespo - Head Of CX & Design At RBC](https://blog.karanbalaji.com/day-1-in-100daysofdesign-kickstarting-with-a-mentorship-session-with-hector-crespo)
+- [x] ☁️ 2 > (UX Event)[Day 2/100 in #100DaysOfDesign: Demystifying Design Systems at EvolveUX Conference By Morgan Guegan](https://blog.karanbalaji.com/day-2-100daysofdesign-demystifying-design-systems-at-evolveux-conference-by-morgan-guegan)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
