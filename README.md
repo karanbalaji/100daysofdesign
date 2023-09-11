@@ -25,9 +25,9 @@
 ## Stepping out the door
 
 - [x] ☁️ 1 >(Mentorship)[A Mentorship Session with Hector Crespo - Head Of CX & Design At RBC](https://blog.karanbalaji.com/day-1-in-100daysofdesign-kickstarting-with-a-mentorship-session-with-hector-crespo)
-- [x] ☁️ 2 > (UX Event)[Day 2/100 in #100DaysOfDesign: Demystifying Design Systems at EvolveUX Conference By Morgan Guegan](https://blog.karanbalaji.com/day-2-100daysofdesign-demystifying-design-systems-at-evolveux-conference-by-morgan-guegan)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [x] ☁️ 2 > (UX Event)[Demystifying Design Systems at EvolveUX Conference By Morgan Guegan](https://blog.karanbalaji.com/day-2-100daysofdesign-demystifying-design-systems-at-evolveux-conference-by-morgan-guegan)
+- [X] ☁️ 3 > (Design System)[Exploring Supernova.io - Simplifying Design Systems](https://blog.karanbalaji.com/day-3-in-100daysofdesign-exploring-supernovaio-simplifying-design-systems)
+- [X] ☁️ 4 > (UI Components)[Mastering UI Components with Storybook - A Designer's Essential Tool](https://blog.karanbalaji.com/day-4-in-100daysofdesign-mastering-ui-components-with-storybook-a-designers-essential-tool)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
