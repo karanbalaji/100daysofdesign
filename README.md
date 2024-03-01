@@ -11,7 +11,7 @@
 🚀 At the end of this challenge I wish to see myself working as a Product Designer / Interaction Desinger / Ux Engineer or be a mediator in the Design/Tech department.
 
 - [ LinkedIn: Karan Balaji](https://www.linkedin.com/in/karanbalaji)
-- [ blog.karanbalaji.com: Karan Balaji](blog.karanbalaji.com)
+- [ blog.karanbalaji.com: Karan Balaji](https://blog.karanbalaji.com/))
 
 ## The Challenge
 1. Write everyday about a topic in design or work on a project.
@@ -21,7 +21,7 @@
 5. Update your main README to link back to your Day Journey article
 6. This challenge is inspired by [#100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-# I've moved my journey into [ blog.karanbalaji.com](blog.karanbalaji.com). The folks that don't have a blog can use the template below. 
+# I've moved my journey into [ blog.karanbalaji.com](https://blog.karanbalaji.com/). The folks that don't have a blog can use the template below. 
 
 ## Stepping out the door
 
