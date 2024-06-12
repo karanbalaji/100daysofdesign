@@ -1,10 +1,10 @@
 ---
 title: "Day 33/100 : Enhancing Collaboration Between UX and Marketing with Aaron Yen"
 seoTitle: "Day 33/100: Enhancing UX-Marketing Collaboration with Aaron Yen"
-seoDescription: "Enhance UX-Marketing collaboration with insights from Aaron Yen, Marketing Manager at Amazon Alexa. Learn practical tips, align goals, and drive successful "
+seoDescription: "Enhance UX-Marketing collaboration with insights from Aaron Yen, Marketing Manager at Amazon Alexa. Learn practical tips, align goals, and drive successful"
 datePublished: Wed Jun 12 2024 12:40:30 GMT+0000 (Coordinated Universal Time)
 cuid: clxbtjy6h00010albghq1918f
-slug: day-33100-enhancing-collaboration-between-ux-and-marketing-with-aaron-yen
+slug: day-33-enhancing-collaboration-between-ux-and-marketing-with-aaron-yen
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717988046709/25d98e96-8bdd-48f6-8a14-2a70d1288caa.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1718195818552/11f85900-15c5-4382-be7a-745bde0c7013.jpeg
 tags: design, ux, web-development, marketing
