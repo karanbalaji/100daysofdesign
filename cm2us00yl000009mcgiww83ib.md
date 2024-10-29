@@ -36,6 +36,10 @@ For example, in one of my previous startups, I noticed that about 60% of users w
 * **Hick’s Law**: Hick's Law explains that having more choices can slow down decision-making. Simplifying the experience by optimizing button placement can make navigation more intuitive.
     
 
+[![thumb-zone-mapping-opt.png (957×618)](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/496f7bc0-4c6c-4159-b731-ec3adcf91105/thumb-zone-mapping-opt.png align="left")](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/)
+
+Source: Smashing Magazine
+
 Hypothesizing that a bottom navigation bar could make key calls-to-action (CTAs) more accessible, I conducted an experiment. With this change, conversions increased by over 20% within two weeks, validating the hypothesis and demonstrating the power of data-driven design.
 
 ## How: Building and Testing Multiple Hypotheses
