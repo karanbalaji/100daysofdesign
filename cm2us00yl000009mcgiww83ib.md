@@ -88,7 +88,7 @@ This concept of “design like a scientist” resonated well with the students, 
 
 ## Question from Guoxiang Zhao: Collaboration After Handoff:
 
-%[https://www.youtube.com/watch?v=6_qWz5D8peE&ab_channel=Karan047] 
+%[https://youtu.be/_R6qo-jTWBI?si=L-ccYUm4YuOUq55X] 
 
 One of the most engaging moments was when a student, Guoxiang Zhao, asked, *“What do you do once your design work is handed off to the front-end developers? Do you continue refining the UI with them, or move on to the next project?”*
 
