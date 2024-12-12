@@ -4,7 +4,7 @@ seoTitle: "Day40/100: The Future of Customers: Communities & Transparency in AI"
 seoDescription: "Discover how communities will drive customer loyalty in the AI era and why transparency in hiring and feedback fosters accountability and trust."
 datePublished: Thu Dec 12 2024 20:07:19 GMT+0000 (Coordinated Universal Time)
 cuid: cm4lr3gd8000009jfechpf5nu
-slug: day-40-the-future-of-customers-in-the-ai-revolution-communities-will-be-key
+slug: day-40-future-of-customers-in-the-ai-revolution-communities-will-be-key
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734034574382/e1431826-725c-42f4-917e-da89513f730e.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1734034013889/47bddd5f-2676-4942-8c28-ccd48b35b9b8.png
 tags: design, ux, web-development, ux-design
