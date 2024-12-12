@@ -1,6 +1,6 @@
 ---
-title: "Day 40: The Future of Customers in the AI Revolution: Communities Will Be Key"
-seoTitle: "The Future of Customers: Communities & Transparency in AI"
+title: "Day 40/100: The Future of Customers in the AI Revolution: Communities Will Be Key"
+seoTitle: "Day40/100: The Future of Customers: Communities & Transparency in AI"
 seoDescription: "Discover how communities will drive customer loyalty in the AI era and why transparency in hiring and feedback fosters accountability and trust."
 datePublished: Thu Dec 12 2024 20:07:19 GMT+0000 (Coordinated Universal Time)
 cuid: cm4lr3gd8000009jfechpf5nu
