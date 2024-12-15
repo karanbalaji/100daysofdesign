@@ -13,7 +13,7 @@ tags: ai, software-development, data-science, design, ux, frontend-development
 
 # Introduction: Guest Speaking at UoFT
 
-Recently, I had the privilege of guest-speaking at the University of Toronto, invited by Joseph Jay Williams, to discuss a core component of human-computer interaction (HCI): experimentation and A/B testing. This talk allowed me to share real-world insights from my design journey, focusing on how experimentation drives user-centered, data-driven products. Here’s an outline of the session, structured to give students a deeper understanding of design experimentation.
+Recently, I had the privilege of guest-speaking at the University of Toronto, invited by Joseph Jay Williams, to discuss a core component of human-computer interaction (HCI): experimentation and A/B testing. This talk allowed me to share real-world insights from my design journey, focusing on how experimentation drives user-centered, data-driven products. The core principle of design is "Put yourself into the customer's shoes and see from every angle." When I A/B tested this principle itself—across how design could have been done with other tools and timelines—it revealed itself as a fundamental truth. A/B testing is crucial in design because, so far, only a few designers build from one subject domain perspective due to limited resources. However, in the AI revolution, we will increasingly use generative UI and even generative UX strategies to test from multiple angles, creating more flexible and holistic design solutions. Here’s an outline of the session, structured to give students a deeper understanding of design experimentation.
 
 ## What: The Role of A/B Testing and Experimentation in HCI
 
