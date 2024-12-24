@@ -115,3 +115,8 @@ The future belongs to those who embrace community-driven models. By prioritizing
 * Sutskever, I. (2024). *Data Is the 'Fossil Fuel' of A.I.*. Retrieved from[Observer](https://observer.com/2024/12/openai-cofounder-ilya-sutskever-ai-data-peak/?utm_source=chatgpt.com)
     
 * The Verge. (2024). *OpenAI cofounder Ilya Sutskever says the way AI is built is about to change*. Retrieved from[The Verge](https://www.theverge.com/2024/12/13/24320811/what-ilya-sutskever-sees-openai-model-data-training?utm_source=chatgpt.com)
+    
+
+# How to Cite This Article
+
+Balaji, Karan. (2024, December 21). *Future of Customers in the AI Revolution: Communities Will Be Key*. Retrieved from [https://blog.karanbalaji.com/day-40-future-of-customers-in-the-ai-revolution-communities-will-be-key](https://blog.karanbalaji.com/day-40-future-of-customers-in-the-ai-revolution-communities-will-be-key)
