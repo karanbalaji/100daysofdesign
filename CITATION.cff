@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "#100DaysOfDesign"
+authors:
+  - family-names: Balaji
+    given-names: Karan
+    orcid: "https://orcid.org/0009-0008-2869-1006"
+date-released: 2024-12-23
+version: "v1.0.0"
+doi: 10.5281/zenodo.14550489
+url: https://github.com/karanbalaji/100DaysOfDesign
+blog-url: https://blog.karanbalaji.com/
+abstract: >
+  #100DaysOfDesign is a community-driven movement focusing on inclusive design,
+  empathy, and innovation. This release includes articles, tools, and
+  mentor feedback to inspire designers worldwide.
