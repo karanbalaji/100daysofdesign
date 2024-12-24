@@ -1,13 +1,13 @@
 ---
 title: "Day 40/100: The Future of Customers in the AI Revolution: Communities Will Be Key"
-seoTitle: "Day40/100: The Future of Customers: Communities & Transparency in AI"
-seoDescription: "Discover how communities will drive customer loyalty in the AI era and why transparency in hiring and feedback fosters accountability and trust."
+seoTitle: "Future of Customers in the AI Revolution: Communities Will Be Key"
+seoDescription: "This article explores how AI is shifting the challenge of product creation to customer acquisition and retention, emphasizing the critical role of community"
 datePublished: Thu Dec 12 2024 20:07:19 GMT+0000 (Coordinated Universal Time)
 cuid: cm4lr3gd8000009jfechpf5nu
 slug: day-40-future-of-customers-in-the-ai-revolution-communities-will-be-key
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734034574382/e1431826-725c-42f4-917e-da89513f730e.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1734034013889/47bddd5f-2676-4942-8c28-ccd48b35b9b8.png
-tags: design, ux, web-development, ux-design
+tags: ai, design, ux, web-development, ux-design
 
 ---
 
