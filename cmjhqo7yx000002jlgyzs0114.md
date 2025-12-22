@@ -11,6 +11,8 @@ tags: ai, artificial-intelligence, web-development
 
 ---
 
+# Intro to Google’s AI releases
+
 In this installment of the #100DaysOfAi series, we dive into two groundbreaking advancements from Google that are reshaping how AI agents interact with users and developers. A2UI, an open-source protocol for agent-driven user interfaces, and the Interactions API, a unified foundation for models and agents, represent key steps toward more dynamic, secure, and efficient AI systems. Drawing from recent announcements and developments as of December 2025, we'll explore these technologies through their core concepts, implementation strategies, and broader significance.
 
 ## What These Concepts Are About
