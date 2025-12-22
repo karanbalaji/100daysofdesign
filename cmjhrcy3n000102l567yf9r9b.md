@@ -11,6 +11,8 @@ tags: ai, artificial-intelligence, web-development, coding
 
 ---
 
+# Intro to Vercel’s AI SDK
+
 As part of the #100DaysOfAi series, we're diving into the latest advancements in AI tools. Vercel has just launched AI SDK 6, a significant update to their TypeScript toolkit designed for building AI-powered applications. This release builds on the SDK's foundation, offering enhanced capabilities for developers working with large language models (LLMs) and integrating AI seamlessly into web and server-side projects. With over 20 million monthly downloads, it's a go-to resource for creating everything from simple chatbots to sophisticated agents.
 
 The update emphasizes composability, safety, and efficiency, making it particularly valuable for generative UI experiences where real-time interactions and dynamic content generation are key. We've leveraged it extensively in projects involving generative UI, where streaming responses and tool integrations create fluid, interactive interfaces. Additionally, it pairs well with AI Elements, an open-source library of customizable React components built on shadcn/ui, specifically for constructing chat interfaces and workflows. AI Elements provides prebuilt, headless-first UI primitives like conversations and messages, enabling developers to craft professional chat UIs similar to those in ChatGPT or Claude, handling complexities such as streaming and tool rendering effortlessly.
