@@ -1,6 +1,6 @@
 ---
-title: "The Future of Generative UIs: What to Expect in 2026"
-seoTitle: "The Future of Generative UIs in 2026"
+title: "Day 1/100: The Future of Generative UIs: What to Expect in 2026"
+seoTitle: "Day 1/100: The Future of Generative UIs in 2026"
 seoDescription: "Discover Generative UIs where AI builds adaptive interfaces in real time. See Gemini 3 examples, 2025 use cases, and what’s coming in 2026."
 datePublished: Mon Dec 22 2025 21:59:12 GMT+0000 (Coordinated Universal Time)
 cuid: cmjhp7rs5000002kwg1vv1zqs
