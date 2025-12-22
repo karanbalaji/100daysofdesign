@@ -11,6 +11,8 @@ tags: ai, artificial-intelligence, web-development, ui
 
 ---
 
+# Intro to Generative Ui’s
+
 Welcome to Day 1 of the #100DaysOfAi series! On this December 21, 2025, we're kicking off with one of the most exciting shifts in AI: Generative User Interfaces (Generative UIs). As 2025 draws to a close, we've seen massive leaps with Google's Gemini 3 rollout and emerging standards like the Model Context Protocol's UI extensions. This sets the stage for an explosive 2026 where AI doesn't just respond with text but builds entire interactive experiences on the fly. Let's dive into the current reality and what's coming next.
 
 ## What: Understanding Generative UIs
@@ -19,7 +21,7 @@ Generative UIs mark a fundamental evolution where large language models (LLMs) g
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1766440569744/4f1f8432-d83c-495f-a003-5e129eabfd9b.png align="center")
 
-This capability exploded in late 2025 with Google's Gemini 3, which powers "Dynamic View" in the Gemini app and AI Mode in Search. For any query, Gemini 3 creates bespoke interfaces, such as interactive loan calculators or physics simulations. Frameworks like Vercel's AI SDK enable this by linking tool calls (e.g., data retrieval) to React components for rendering. Emerging protocols, including extensions to the Model Context Protocol (MCP), allow secure embedding of rich UIs via iframes, supporting bidirectional agent-user interactions.  
+This capability exploded in late 2025 with Google's Gemini 3, which powers "Dynamic View" in the Gemini app and AI Mode in Search. For any query, Gemini 3 creates bespoke interfaces, such as interactive loan calculators or physics simulations. Frameworks like Vercel's AI SDK enable this by linking tool calls (e.g., data retrieval) to React components for rendering. Emerging protocols, including extensions to the Model Context Protocol (MCP), allow secure embedding of rich UIs via iframes, supporting bidirectional agent-user interactions.
 
 [MCP UI APPS](https://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/) Example:
 
