@@ -2,7 +2,7 @@
 title: "Day 34/100: Embracing a Growth Mindset and Grit with Guy Kawasaki"
 seoTitle: "Day 34/100: Embracing a Growth Mindset and Grit with Guy Kawasaki"
 seoDescription: "Explore Day 34/100 with Guy Kawasaki on embracing a growth mindset and grit. Learn practical tips and insights to build a remarkable life and career."
-datePublished: Wed Jul 03 2024 23:16:05 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-03T23:16:05.788Z
 cuid: cly6gi7fg00000ajrdcn47wyx
 slug: day-34-embracing-a-growth-mindset-and-grit-with-guy-kawasaki
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720047344645/7f72d0be-7473-4dba-b02e-4ce3884a7d98.png
