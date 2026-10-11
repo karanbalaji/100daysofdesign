@@ -2,7 +2,7 @@
 title: "Day 18/100 in #100DaysOfDesign: Data-Driven Design with A/B Testing Tools"
 seoTitle: "Day 18/100: Data-Driven Design with A/B Testing Tools"
 seoDescription: "Unlock the power of data-driven design with A/B testing tools and behaviour analytics. Enhance user experiences and make informed design choices."
-datePublished: Fri Sep 29 2023 20:26:15 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-29T20:26:15.197Z
 cuid: cln520yzh000109jyfjx1bgwk
 slug: day-18-data-driven-design-with-ab-testing-tools
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696018590000/29ef130d-9107-408c-a99c-a130eff7bae7.png
