@@ -2,7 +2,7 @@
 title: "Day 22/100: Navigating Design Interviews to Success"
 seoTitle: "Day 22/100: Navigating Design Interviews to Success"
 seoDescription: "Mastering design interviews with insights from Alex Small. Enhance your problem-solving skills and embrace feedback. Join the journey! 🚀 #DesignInterviews"
-datePublished: Wed Oct 11 2023 00:51:21 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-10-11T00:51:21.782Z
 cuid: clnl1c9x2000809ju5o8wfctx
 slug: day-22-navigating-design-interviews-to-success-alex-small
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696985229585/6555606c-af07-4e56-a930-4b02a46c0c11.png
