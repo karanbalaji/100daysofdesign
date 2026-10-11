@@ -1,6 +1,6 @@
 ---
 title: "First Hashicorp meetup in Toronto 2019."
-datePublished: Fri Feb 18 2022 05:18:42 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-02-18T05:18:42.297Z
 cuid: ckzryoywu0i630xs17dvc09js
 slug: first-hashicorp-meetup-in-toronto-2019
 canonical: https://www.linkedin.com/feed/update/urn:li:activity:6636465569199730688/
