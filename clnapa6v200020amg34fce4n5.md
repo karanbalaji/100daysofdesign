@@ -2,7 +2,7 @@
 title: "Day 20/100: Color-Enhanced Design and the Curiosity of Data-Driven Insights"
 seoTitle: "Day 20/100: Color-Enhanced Design + Curiosity of Data-Driven Insights"
 seoDescription: "Unlocking the potential of color in design for data-driven insights and captivating user experiences. Discover the magic of color-enhanced design"
-datePublished: Tue Oct 03 2023 19:16:07 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-10-03T19:16:07.358Z
 cuid: clnapa6v200020amg34fce4n5
 slug: day-20-color-enhanced-design-and-the-curiosity-of-data-driven-insights
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696360342515/f2a217c7-1940-4cf2-90a5-ce4a08027608.png
