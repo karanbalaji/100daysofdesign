@@ -2,7 +2,7 @@
 title: "Day 9/100 in #100DaysOfDesign: Enhancing My UX Portfolio for a Seamless User Experience"
 seoTitle: "Day 9/100: Enhancing My UX Portfolio for a Seamless User Experience"
 seoDescription: "Enhancing my UX portfolio for better user understanding. See the transformation and discover my design journey. #UXPortfolio #100DaysOfDesign"
-datePublished: Fri Sep 15 2023 21:04:05 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-15T21:04:05.521Z
 cuid: clml37pg0000408lb0igj24cz
 slug: day-9-in-100daysofdesign-enhancing-my-ux-portfolio-for-a-seamless-user-experience
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694811308503/86c68cac-18c4-4b83-8a86-fbc3ebbdfee5.png
