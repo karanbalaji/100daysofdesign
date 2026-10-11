@@ -2,7 +2,7 @@
 title: "Day 11/100 in #100DaysOfDesign: Navigating the World of Accessibility Design in UX"
 seoTitle: "Day 11/100 Days: Navigating the World of Accessibility Design in UX"
 seoDescription: "Exploring the world of accessibility design in UX, uncovering tools and strategies, and discovering a valuable study guide for inclusive design."
-datePublished: Tue Sep 19 2023 01:43:08 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-19T01:43:08.058Z
 cuid: clmpni42i00000amidvz112cw
 slug: day-11-in-100daysofdesign-navigating-the-world-of-accessibility-design-in-ux
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695085697269/ccfcdfdf-9204-4cc6-acc5-9fcbac1716b6.jpeg
