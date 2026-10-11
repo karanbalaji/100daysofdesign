@@ -2,7 +2,7 @@
 title: "Day 17/100 in #100DaysOfDesign: Demystifying Typography: A Handy Cheat Sheet"
 seoTitle: "Day 17/100: Demystifying Typography - A Handy Cheat Sheet"
 seoDescription: "Master typography with key terms. Enhance UX and design. Plus, learn the Figma typography system. #Typography #DesignTerms"
-datePublished: Thu Sep 28 2023 04:59:56 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-28T04:59:56.607Z
 cuid: cln2phvlr000d09mf1wvh25ff
 slug: day-17-in-100daysofdesign-demystifying-typography-a-handy-cheat-sheet
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695877014376/a3cb0212-663a-4662-9c83-806e0e0dc3df.png
