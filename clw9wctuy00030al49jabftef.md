@@ -2,7 +2,7 @@
 title: "Day 32/100: Jakob Nielsen's 10 Foundational UX Insights"
 seoTitle: "Day 32/100: Jakob Nielsen's 10 Foundational UX Insights"
 seoDescription: "Discover Jakob Nielsen's 10 UX insights: from empirical data to AI integration, learn how these principles can revolutionize your user experience design."
-datePublished: Thu May 16 2024 23:43:42 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-05-16T23:43:42.634Z
 cuid: clw9wctuy00030al49jabftef
 slug: day-32-jakob-nielsens-10-foundational-ux-insights
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715902706904/940d52fe-c939-4570-9d79-d1c1682c59fc.jpeg
