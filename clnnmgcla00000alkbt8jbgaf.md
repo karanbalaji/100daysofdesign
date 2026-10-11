@@ -2,7 +2,7 @@
 title: "Day 23/100: Navigating A/B Testing for Data-Driven Design"
 seoTitle: "Day 23/100: Navigating A/B Testing for Data-Driven Design"
 seoDescription: "Explore the power of A/B testing and data-driven design with VWO on my UX portfolio site. Enhance UX through real user insights. #ABTesting #DataDrivenDesig"
-datePublished: Thu Oct 12 2023 20:17:56 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-10-12T20:17:56.159Z
 cuid: clnnmgcla00000alkbt8jbgaf
 slug: day-23-navigating-ab-testing-for-data-driven-design
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697141391718/193f6dac-d181-4c66-bdb1-f94f23a7524b.png
