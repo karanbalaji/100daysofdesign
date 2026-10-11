@@ -2,7 +2,7 @@
 title: "Day 14/100: Future Applications of AI for Design
 By Mohammed Abdoolcarim"
 seoDescription: "Explore the future applications of design By Mohammed Abdoolcarim from the #BeMore Festival. Discover AI tools reshaping the design landscape."
-datePublished: Fri Sep 22 2023 03:04:02 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-22T03:04:02.934Z
 cuid: clmu0pq4600080al4c5jfeine
 slug: day-14-future-applications-of-ai-for-design-by-mohammed-abdoolcarim
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695349233719/dd9e01bb-2d2c-4c59-ad63-b67d3e058dce.png
