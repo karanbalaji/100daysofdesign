@@ -2,7 +2,7 @@
 title: "Day 37/100:  Design Thinking to AI Thinking by Alipta Ballav"
 seoTitle: "Day 37/100: Design Thinking to AI Thinking by Alipta Ballav"
 seoDescription: "Discover how UX design is evolving from traditional design thinking to AI thinking, as Alipta Ballav explains the shift toward a polymath mindset in design."
-datePublished: Wed Oct 02 2024 19:18:13 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-02T19:18:13.484Z
 cuid: cm1s92tik002v09kxh5uq5how
 slug: day-37-design-thinking-to-ai-thinking-by-alipta-ballav
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727896778148/f6da152c-3521-43a3-b719-d7d2740b4f0e.png
