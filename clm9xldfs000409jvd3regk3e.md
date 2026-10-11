@@ -2,7 +2,7 @@
 title: "Day 1/100 in #100daysofDesign - Kickstarting with a mentorship session with Hector Crespo."
 seoTitle: "Day 1/100 in #100daysofDesign - Kickstarting with a mentorship session"
 seoDescription: "Embark on my #100DaysOfDesign journey with a powerful kickstart – a mentorship session with Hector Crespo, Head of CX & Design at RBC, on Day 1. Explore the"
-datePublished: Fri Sep 08 2023 01:41:17 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-08T01:41:17.512Z
 cuid: clm9xldfs000409jvd3regk3e
 slug: day-1-in-100daysofdesign-kickstarting-with-a-mentorship-session-with-hector-crespo
 canonical: https://www.linkedin.com/posts/karanbalaji_get-mentored-by-hector-crespo-on-adplist-activity-7105688507607642112-40BU?utm_source=share&utm_medium=member_desktop
