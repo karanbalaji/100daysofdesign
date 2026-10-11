@@ -2,7 +2,7 @@
 title: "AWS UI kit: Quickly Build Architectural Diagrams on Adobe XD"
 seoTitle: "AWS UI kit for Adobe XD"
 seoDescription: "AWS UI kit"
-datePublished: Fri Jan 28 2022 21:39:13 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-01-28T21:39:13.753Z
 cuid: ckyyxh1jf02uq9js18w9ig344
 slug: aws-ui-kit
 canonical: https://dev.to/exampro/aws-free-ui-kit-on-adobe-xd-496h
