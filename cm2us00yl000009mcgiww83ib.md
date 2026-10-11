@@ -2,7 +2,7 @@
 title: "Day 39 of 100 Days of Design: Guest Karan Balaji Speaking at University of Toronto on Experimentation in Human-Computer Interaction"
 seoTitle: "Day 39/100: Karan Balaji on Experimentation in HCI at UofT Guest Talk"
 seoDescription: "Learn Karan Balaji’s approach to A/B testing and experimentation in UX design, from hypothesis to outcome-driven insights and data-backed results"
-datePublished: Tue Oct 29 2024 18:23:10 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-29T18:23:10.558Z
 cuid: cm2us00yl000009mcgiww83ib
 slug: day-39-of-100-days-of-design-guest-karan-balaji-speaking-at-university-of-toronto-on-experimentation-in-human-computer-interaction
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1730226152979/a08b6192-6167-447e-8d79-0002dfbadae9.png
