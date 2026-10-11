@@ -2,7 +2,7 @@
 title: "Day 2/100: Revolutionizing AI Agents with A2UI and Interactions API"
 seoTitle: "Day 2/100: Google's A2UI & Interactions API Revolution"
 seoDescription: "Discover Google's latest A2UI protocol for agent-driven UIs and Interactions API for Gemini agents. Implementation guides"
-datePublished: Mon Dec 22 2025 22:39:59 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-12-22T22:39:59.577Z
 cuid: cmjhqo7yx000002jlgyzs0114
 slug: day-2100-revolutionizing-ai-agents-with-a2ui-and-interactions-api
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766443128103/77f5da7d-ad7f-4948-af3d-32d99fe3de64.png
