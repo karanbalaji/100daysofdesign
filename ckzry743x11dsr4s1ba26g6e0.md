@@ -2,7 +2,7 @@
 title: "#100DaysOfCloud #100DaysOfCode Journey including Javascript"
 seoTitle: "100daysofcode"
 seoDescription: "This is a 100daysofcode and 100daysofcloud challenge. Learn javascript as the base language."
-datePublished: Fri Feb 18 2022 05:04:49 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-02-18T05:04:49.243Z
 cuid: ckzry743x11dsr4s1ba26g6e0
 slug: 100daysofcloud-100daysofcode
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1645160333272/Bcz_um3R5Z.png
