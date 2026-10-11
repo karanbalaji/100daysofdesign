@@ -2,7 +2,7 @@
 title: "Day 25/100:Enhancing Figma Workflows with Builder.io's Visual Co-Pilot"
 seoTitle: "Day 25/100:Enhancing Figma Workflows with Builder.io's Visual Co-Pilot"
 seoDescription: "Unlock seamless Figma-to-code conversion with Builder.io's Visual Co-Pilot for streamlined prototyping and frontend development"
-datePublished: Tue Oct 31 2023 19:59:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-10-31T19:59:44.624Z
 cuid: cloer650w000308ii56puhhtl
 slug: day-25-enhancing-figma-workflows-with-builderios-visual-co-pilot
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698782162239/e404c1c3-fdca-4874-9c65-3ae3cdee200b.png
