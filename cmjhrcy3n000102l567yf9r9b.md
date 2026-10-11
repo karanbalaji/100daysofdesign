@@ -2,7 +2,7 @@
 title: "Day 3/100: AI SDK 6: Revolutionizing AI Application Development"
 seoTitle: "Day 3/100: AI SDK 6: Key Features & Guide"
 seoDescription: "Explore Vercel's AI SDK 6 with agents, tools, and generative UI tips. Learn implementation, highlights, and why it's essential for AI apps."
-datePublished: Mon Dec 22 2025 22:59:13 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-12-22T22:59:13.187Z
 cuid: cmjhrcy3n000102l567yf9r9b
 slug: day-3100-ai-sdk-6-revolutionizing-ai-application-development
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766443929009/98bed4a8-c56f-4824-866a-98024c2e327f.png
