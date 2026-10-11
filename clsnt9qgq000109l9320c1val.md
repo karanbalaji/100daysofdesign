@@ -2,7 +2,7 @@
 title: "Day 26/100:  Insights from Julie Zhuo on Making Data-Driven vs Data-Informed Decisions"
 seoTitle: "Day 26/100 Data Driven Vs Data Informed by Julie Zhou."
 seoDescription: "Gain valuable insights from Julie Zhuo on the nuances between data-driven and data-informed decisions, shaping the future of design strategy"
-datePublished: Thu Feb 15 2024 22:47:16 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-02-15T22:47:16.538Z
 cuid: clsnt9qgq000109l9320c1val
 slug: day-26-insights-from-julie-zhuo-on-making-data-driven-vs-data-informed-decisions
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708036997311/a585eba2-2024-44a5-a2a6-e4e683fd48e1.png
