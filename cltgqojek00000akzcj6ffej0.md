@@ -2,7 +2,7 @@
 title: "Day 30/100: Julie Zhou on the Art of Feedback"
 seoTitle: "Day 30/100: Julie Zhou on the Art of Feedback"
 seoDescription: "Unlock the art of feedback with Julie Zhou's insights on constructive critiques to foster growth and strong relationships. #design"
-datePublished: Thu Mar 07 2024 04:40:07 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-03-07T04:40:07.484Z
 cuid: cltgqojek00000akzcj6ffej0
 slug: day-30-julie-zhou-on-the-art-of-feedback
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709786145686/02e64b8b-e341-4dbb-96fd-325baae5180a.jpeg
