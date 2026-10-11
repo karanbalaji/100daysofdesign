@@ -2,7 +2,7 @@
 title: "Day 4/100 in #100DaysOfDesign: Mastering UI Components with Storybook - A Designer's Essential Tool"
 seoTitle: "Day 4/100 in #100DaysOfDesign: Mastering UI Components with Storybook"
 seoDescription: "Elevate UI design with Storybook - a powerful tool for crafting and collaborating on UI components. #100DaysOfDesign #UIUX #Storyboo"
-datePublished: Mon Sep 11 2023 03:16:26 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-11T03:16:26.880Z
 cuid: clmebbatc000408l19f8i9rez
 slug: day-4-in-100daysofdesign-mastering-ui-components-with-storybook-a-designers-essential-tool
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694401987009/41e216fc-2d86-4a47-9426-2dd1b528de0f.jpeg
