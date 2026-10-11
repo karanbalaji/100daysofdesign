@@ -2,7 +2,7 @@
 title: "Day 7/100 in #100DaysOfDesign: Mastering UI Design with 10 Usability Heuristics"
 seoTitle: "Day 7/100: Mastering UI Design with 10 Usability Heuristics"
 seoDescription: "Unlocking the power of 10 Usability Heuristics for UI Design. Learn how I use and find inspiration in these timeless principles. #UI #UXDesign"
-datePublished: Thu Sep 14 2023 03:50:46 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-14T03:50:46.234Z
 cuid: clmimuztm000009mk0ky27tzr
 slug: day-7100-in-100daysofdesign-mastering-ui-design-with-10-usability-heuristics
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694663228663/2e6cc26f-40b0-45e2-975f-403605c28f21.png
