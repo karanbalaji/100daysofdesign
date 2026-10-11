@@ -2,7 +2,7 @@
 title: "Day 13/100 in #100DaysOfDesign: Perfecting the Art of Mock Interviews with David Luong"
 seoTitle: "Day 13/100: Perfecting the Art of Mock Interviews with David Luong"
 seoDescription: "Unlock the power of storytelling in mock interviews with tips from David Luong, Product Designer at Shopify."
-datePublished: Fri Sep 22 2023 01:05:49 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-22T01:05:49.295Z
 cuid: clmtwhomn00000ajw1zs4cxvr
 slug: day-13-in-100daysofdesign-perfecting-the-art-of-mock-interviews-with-david-luong
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695344715197/a4a053ba-4ed4-4a8e-b1bb-f0d5219c4f7b.png
