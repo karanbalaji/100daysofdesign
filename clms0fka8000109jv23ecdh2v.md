@@ -2,7 +2,7 @@
 title: "Day 12/100 Days in #100DaysOfDesign: The AI Revolution in UX Research"
 seoTitle: "Day 12/100 Days: The AI Revolution in UX Research by Kritika Oberoi"
 seoDescription: "Explore the AI revolution in UX research with insights from Kritika Oberoi of LoopPanel and a toolkit of transformative AI tools"
-datePublished: Wed Sep 20 2023 17:20:36 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-20T17:20:36.464Z
 cuid: clms0fka8000109jv23ecdh2v
 slug: day-12-days-the-ai-revolution-in-ux-research
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695229579309/eee51eb6-8cbc-4256-a3de-7be69b9fbef1.png
