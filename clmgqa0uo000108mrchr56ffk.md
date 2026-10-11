@@ -2,7 +2,7 @@
 title: "Day 6/100 in #100DaysOfDesign: Navigating the World of Information Architecture - Top 10 Design Principles."
 seoTitle: "Day 6/100 in #100DaysOfDesign: World of Information Architecture"
 seoDescription: "Mastering Information Architecture with top design principles, user insights, Google Search Console, and Keyword Planner."
-datePublished: Tue Sep 12 2023 19:50:53 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-12T19:50:53.904Z
 cuid: clmgqa0uo000108mrchr56ffk
 slug: day-6-in-100daysofdesign-navigating-the-world-of-information-architecture-top-10-design-principle
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694548493228/ea9dba72-eb7d-4a08-aa69-b7104ecc5d96.png
