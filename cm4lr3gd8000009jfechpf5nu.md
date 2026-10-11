@@ -2,7 +2,7 @@
 title: "Day 40/100: The Future of Customers in the AI Revolution: Communities Will Be Key"
 seoTitle: "Future of Customers in the AI Revolution: Communities Will Be Key"
 seoDescription: "This article explores how AI is shifting the challenge of product creation to customer acquisition and retention, emphasizing the critical role of community"
-datePublished: Thu Dec 12 2024 20:07:19 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-12-12T20:07:19.965Z
 cuid: cm4lr3gd8000009jfechpf5nu
 slug: day-40-future-of-customers-in-the-ai-revolution-communities-will-be-key
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734034574382/e1431826-725c-42f4-917e-da89513f730e.png
