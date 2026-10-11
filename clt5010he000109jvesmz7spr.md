@@ -2,7 +2,7 @@
 title: "Day 28/100: Exploring Design Insights from Unity Apple Vision Pro Conference"
 seoTitle: "Day 28/100: Design Insights from Unity Apple Vision Pro Conference"
 seoDescription: "Unlock the future of spatial design with insights from the Unity Apple Vision Pro conference. Discover expert tips and strategies for success!"
-datePublished: Tue Feb 27 2024 23:28:31 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-02-27T23:28:31.923Z
 cuid: clt5010he000109jvesmz7spr
 slug: day-28-exploring-design-insights-from-unity-apple-vision-pro-conference
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709075557178/2972b382-3729-42b0-aa60-728b5b8bfc05.jpeg
