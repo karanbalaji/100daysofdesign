@@ -2,7 +2,7 @@
 title: "Day 19/100 in #100DaysOfDesign: Navigating the Phases of Double Diamond Design Thinking"
 seoTitle: "Day 19/100: Navigating the Phases of Double Diamond Design Thinking"
 seoDescription: "Discover the adaptability of the double diamond design thinking process. Embrace the dynamism of UX design with unique insights from mentor Wenting Zhu."
-datePublished: Sun Oct 01 2023 01:27:50 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-10-01T01:27:50.721Z
 cuid: cln6s8o8x000009l27bkx7vfo
 slug: day-19-navigating-the-phases-of-double-diamond-design-thinking
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696123421889/55cb029d-d40f-4c8f-8ae4-ac7f69c2ab7f.png
