@@ -2,7 +2,7 @@
 title: "Day 29/100: Vitaly Friedman's Strategic Mastery in Design KPIs, Design SOW, and Social Equity"
 seoTitle: "Day 29/100: Vitaly Friedman's Design KPIs, Design SOW & Social Equity."
 seoDescription: "Explore Vitaly Friedman's design wisdom on KPIs, SOW, and social equity to elevate UX strategy. Hosted by ADPlist Growth Series."
-datePublished: Thu Feb 29 2024 01:45:14 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-02-29T01:45:14.359Z
 cuid: clt6kco6v00000aig0nul2n9m
 slug: day-29-vitaly-friedmans-strategic-mastery-in-design-kpis-design-sow-social-equity
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709170228431/a82af4d3-0a5d-4230-a49b-3cfb66a33851.png
