@@ -1,7 +1,7 @@
 ---
 title: "Day 3/100 in #100DaysOfDesign: Exploring Supernova.io - Simplifying Design Systems"
 seoDescription: "Discover Supernova.io - revolutionizing design systems with Figma sync, guided by Rahul Purandare."
-datePublished: Sun Sep 10 2023 04:06:27 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-10T04:06:27.670Z
 cuid: clmcxnrkm000609ie8afofcdq
 slug: day-3-in-100daysofdesign-exploring-supernovaio-simplifying-design-systems
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694318419519/cf230cda-c910-46ee-828a-def1b29d9d5d.png
