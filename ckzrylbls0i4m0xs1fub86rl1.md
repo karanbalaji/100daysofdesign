@@ -1,7 +1,7 @@
 ---
 title: "My First AWS summit in Toronto 2019"
 seoTitle: "AWS Summit Toronto"
-datePublished: Fri Feb 18 2022 05:15:52 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-02-18T05:15:52.141Z
 cuid: ckzrylbls0i4m0xs1fub86rl1
 slug: my-first-aws-summit-in-toronto-2019
 canonical: https://www.linkedin.com/feed/update/urn:li:activity:6633923949883469825/
