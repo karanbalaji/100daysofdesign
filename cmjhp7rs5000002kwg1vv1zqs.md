@@ -2,7 +2,7 @@
 title: "Day 1/100: The Future of Generative UIs: What to Expect in 2026"
 seoTitle: "Day 1/100: The Future of Generative UIs in 2026"
 seoDescription: "Discover Generative UIs where AI builds adaptive interfaces in real time. See Gemini 3 examples, 2025 use cases, and what’s coming in 2026."
-datePublished: Mon Dec 22 2025 21:59:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-12-22T21:59:12.485Z
 cuid: cmjhp7rs5000002kwg1vv1zqs
 slug: 100-days-of-ai-day-1-generative-uis
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766439606142/109cfb69-3ccf-453d-ac10-50f040afd920.png
