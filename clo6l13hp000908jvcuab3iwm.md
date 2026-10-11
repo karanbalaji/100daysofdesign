@@ -2,7 +2,7 @@
 title: "Day 24/100: Brainstorming using Generative AI in Product Design"
 seoTitle: "Brainstorming using Generative AI in Product Design"
 seoDescription: "Unlocking the Future: Generative AI in Product Design - Journey into the possibilities with Marisa Parker, Senior Design Manager at AWS."
-datePublished: Thu Oct 26 2023 02:45:42 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-10-26T02:45:42.253Z
 cuid: clo6l13hp000908jvcuab3iwm
 slug: day-24-brainstorming-using-generative-ai-in-product-design
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698285271476/95da19d6-5777-4181-a0fb-d673a6428d73.png
