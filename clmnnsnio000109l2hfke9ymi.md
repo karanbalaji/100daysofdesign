@@ -2,7 +2,7 @@
 title: "Day 10/100 in #100DaysOfDesign: Unveiling the Power of Double Diamond Design Thinking"
 seoTitle: "Day 10/100 Power of Double Diamond Design Thinking by Wenting Zhu"
 seoDescription: "Discover the power of the double diamond design thinking process in my mentorship journey with Wenting Zhu. Stay tuned for design revelations!"
-datePublished: Sun Sep 17 2023 16:15:47 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-17T16:15:47.472Z
 cuid: clmnnsnio000109l2hfke9ymi
 slug: day-10-in-100daysofdesign-unveiling-the-power-of-double-diamond-design-thinking
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694966542993/bdc3170a-6220-499c-b5ff-f7aa5434e6f8.jpeg
