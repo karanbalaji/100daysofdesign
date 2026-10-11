@@ -2,7 +2,7 @@
 title: "Day 21/100: Navigating the World of Information Architecture"
 seoTitle: "Day 21/100: Navigating the World of Information Architecture"
 seoDescription: "Explore the world of Information Architecture (IA) and learn to avoid common mistakes in website structuring. Get insights from NNGroup"
-datePublished: Fri Oct 06 2023 01:58:28 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-10-06T01:58:28.816Z
 cuid: clndyjbv400000aldhloyak27
 slug: day-21-navigating-the-world-of-information-architecture
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696557003316/8f9f6647-8429-4596-b2f9-f816747b2530.png
